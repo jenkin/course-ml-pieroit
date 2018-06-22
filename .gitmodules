@@ -1,0 +1,3 @@
+[submodule "machine-learning-tutorial"]
+	path = machine-learning-tutorial
+	url = https://github.com/pieroit/machine-learning-tutorial.git
